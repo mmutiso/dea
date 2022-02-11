@@ -1,3 +1,3 @@
-# Spark Dataframe Exploratory Analysis
+# Spark Dataframe Helpers
 
-A library to help with quick exploration of a Spark dataframe
+A collection of functions to help when working with Spark Dataframes
